@@ -1,0 +1,9 @@
+{
+    "cube1": {
+        "component": "BoxGeometry",
+        "params": {
+            "position": [0,1,0],
+            "scriptFiles": ["cube_animate.js"]
+        }
+    }
+}
